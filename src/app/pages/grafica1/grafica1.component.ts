@@ -8,4 +8,9 @@ import { Component } from '@angular/core';
 })
 export class Grafica1Component {
 
+  constructor() {
+    console.log('holaaaaa');
+    
+  }
+
 }
